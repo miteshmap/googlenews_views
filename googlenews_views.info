@@ -1,0 +1,4 @@
+name = Google News sitemap Views
+description = Generates Google News sitemap views integration
+core = 6.x
+dependencies[] = iv_activity_stream
